@@ -1,5 +1,6 @@
 hello git
 this is a test message
 I like to git it is so convinent
-Creating a new branch is quick & simple
+Creating a new branch is quick AND simple
 jim write
+
